@@ -1,0 +1,154 @@
+General
+Unique ID : 232223262561839633926700791193908871530 (0xAEB492D1E2F516519F89D8324301016A)
+Complete name : Love.Letter.1995.BluRay.Remux.1080p.AVC.TrueHD.5.1-ZQ.mkv
+Format : Matroska
+Format version : Version 4 / Version 2
+File size : 23.1 GiB
+Duration : 1 h 56 min
+Overall bit rate mode : Variable
+Overall bit rate : 28.4 Mb/s
+Movie name : Love Letter (1995) - ZQ
+Encoded date : UTC 2017-07-29 05:38:53
+Writing application : mkvmerge v14.0.0 ('Flow') 64bit
+Writing library : libebml v1.3.4 + libmatroska v1.4.5
+
+Video
+ID : 1
+Format : AVC
+Format/Info : Advanced Video Codec
+Format profile : High@L4.1
+Format settings, CABAC : Yes
+Format settings, RefFrames : 4 frames
+Codec ID : V_MPEG4/ISO/AVC
+Duration : 1 h 56 min
+Bit rate mode : Variable
+Bit rate : 25.9 Mb/s
+Maximum bit rate : 36.0 Mb/s
+Width : 1 920 pixels
+Height : 1 080 pixels
+Display aspect ratio : 16:9
+Frame rate mode : Constant
+Frame rate : 23.976 (24000/1001) FPS
+Color space : YUV
+Chroma subsampling : 4:2:0
+Bit depth : 8 bits
+Scan type : Progressive
+Bits/(Pixel*Frame) : 0.521
+Stream size : 21.0 GiB (91%)
+Title : MPEG-4 AVC Video / 25993 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
+Default : Yes
+Forced : No
+
+Audio #1
+ID : 2
+Format : TrueHD
+Codec ID : A_TRUEHD
+Duration : 1 h 56 min
+Bit rate mode : Variable
+Bit rate : 1 260 kb/s
+Maximum bit rate : 2 133 kb/s
+Channel(s) : 6 channels
+Channel positions : Front: L C R, Side: L R, LFE
+Sampling rate : 48.0 kHz
+Frame rate : 1 200.000 FPS (40 SPF)
+Compression mode : Lossless
+Stream size : 1.02 GiB (4%)
+Title : Dolby TrueHD Audio / 5.1 / 48 kHz / 1260 kbps / 16-bit
+Language : Japanese
+Default : Yes
+Forced : No
+
+Audio #2
+ID : 3
+Format : AC-3
+Format/Info : Audio Coding 3
+Format settings, Endianness : Big
+Codec ID : A_AC3
+Duration : 1 h 56 min
+Bit rate mode : Constant
+Bit rate : 640 kb/s
+Channel(s) : 6 channels
+Channel positions : Front: L C R, Side: L R, LFE
+Sampling rate : 48.0 kHz
+Frame rate : 31.250 FPS (1536 SPF)
+Bit depth : 16 bits
+Compression mode : Lossy
+Stream size : 532 MiB (2%)
+Title : Compatibility Track / Dolby Digital Audio / 2.0 / 48 kHz / 640 kbps / 16-bit
+Language : Japanese
+Service kind : Complete Main
+Default : No
+Forced : No
+
+Audio #3
+ID : 4
+Format : FLAC
+Format/Info : Free Lossless Audio Codec
+Codec ID : A_FLAC
+Duration : 1 h 56 min
+Bit rate mode : Variable
+Bit rate : 570 kb/s
+Channel(s) : 2 channels
+Channel positions : Front: L R
+Sampling rate : 48.0 kHz
+Frame rate : 11.719 FPS (4096 SPF)
+Bit depth : 16 bits
+Stream size : 474 MiB (2%)
+Title : Commentary by Director Shunji Iwai / FLAC Audio / 2.0 / 48 kHz / 570 kbps / 16-bit
+Writing library : libFLAC 1.3.2 (UTC 2017-01-01)
+Language : Japanese
+Default : No
+Forced : No
+
+Text #1
+ID : 5
+Format : UTF-8
+Codec ID : S_TEXT/UTF8
+Codec ID/Info : UTF-8 Plain Text
+Duration : 1 h 50 min
+Bit rate : 39 b/s
+Count of elements : 1391
+Stream size : 32.0 KiB (0%)
+Language : English
+Default : Yes
+Forced : No
+
+Text #2
+ID : 6
+Format : PGS
+Muxing mode : zlib
+Codec ID : S_HDMV/PGS
+Codec ID/Info : Picture based subtitle format used on BDs/HD-DVDs
+Duration : 1 h 52 min
+Bit rate : 25.6 kb/s
+Count of elements : 2878
+Stream size : 20.5 MiB (0%)
+Language : Chinese
+Default : No
+Forced : No
+
+Menu
+00:00:00.000 : en:Chapter 1
+00:05:36.795 : en:Chapter 2
+00:08:55.785 : en:Chapter 3
+00:12:52.271 : en:Chapter 4
+00:16:44.295 : en:Chapter 5
+00:22:19.213 : en:Chapter 6
+00:26:31.006 : en:Chapter 7
+00:29:16.338 : en:Chapter 8
+00:33:13.200 : en:Chapter 9
+00:39:16.854 : en:Chapter 10
+00:43:51.337 : en:Chapter 11
+00:48:47.591 : en:Chapter 12
+00:52:16.633 : en:Chapter 13
+00:59:39.701 : en:Chapter 14
+01:05:16.329 : en:Chapter 15
+01:11:04.260 : en:Chapter 16
+01:16:07.980 : en:Chapter 17
+01:19:58.252 : en:Chapter 18
+01:26:41.071 : en:Chapter 19
+01:32:58.114 : en:Chapter 20
+01:39:20.580 : en:Chapter 21
+01:44:10.911 : en:Chapter 22
+01:49:08.125 : en:Chapter 23
+01:53:33.640 : en:Chapter 24

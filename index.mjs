@@ -1,10 +1,21 @@
 function parseSectionBody(lines) {
   const ret = {};
   for (let line of lines) {
-    const value = line.slice(line.indexOf(':') + 1);
+    let value = line.slice(line.indexOf(':') + 1).trim();
     let key = line.slice(0, line.indexOf(':')).trim();
     key = key.toLowerCase().replace(/[ /]/g, '_');
-    ret[key.trim()] = value.trim();
+    switch (true) {
+      case key === 'width':
+      case key === 'height':
+        value = parseInt(value.replace(' ', ''));
+        break;
+      case key === 'frame_rate':
+        value = parseFloat(value.replace(' ', ''));
+        break;
+      default:
+        break;
+    }
+    ret[key] = value;
   }
 
   return ret;

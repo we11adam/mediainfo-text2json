@@ -1,16 +1,22 @@
 {
   "name": "mediainfo-text2json",
   "version": "1.0.0",
-  "description": "",
+  "description": "Convert MediaInfo plain text output to JSON on a best effort basis",
   "main": "index.mjs",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node test/mediainfo-text2json.test.mjs"
+  },
+  "engines": {
+    "node": ">=18.11.0"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/we11adam/mediainfo-text2json.git"
   },
-  "keywords": [],
+  "keywords": [
+    "mediainfo",
+    "json"
+  ],
   "author": "",
   "license": "ISC",
   "bugs": {
